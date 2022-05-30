@@ -1,5 +1,10 @@
-# Wordlists
-A repo for wordlists I have made. I am usually using curl/wget with a combination of grep and other linux commands to clean the dataset to get the important parts from it.
+# Wordlists for CTFs
+
+A repo for wordlists I have made. These are meant for Capture-the-flag competitions, but could potentially be used for cracking actual passwords. I am usually using curl/wget with a combination of grep and other linux commands to clean the dataset to get the important parts from it.
+
+## Wordlist List
+
+- [title](https://www.example.com)
 
 ### 111111_movie_names.txt (Updated May 6, 2022)
 
