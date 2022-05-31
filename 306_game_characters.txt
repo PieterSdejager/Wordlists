@@ -20,7 +20,7 @@ Baby Bowser
 Baby Luigi
 Baby Mario
 Bandana Waddle Dee
-Banjo &amp; Kazooie
+Banjo & Kazooie
 Bendy
 Biff
 Birdo
@@ -33,7 +33,7 @@ Bowser Jr.
 Brighid
 Brittany
 Bug
-Byte &amp; Barq
+Byte & Barq
 Callie
 Cap'n Cuttlefish
 Cappy
@@ -234,7 +234,7 @@ Professor Sycamore
 Pyra
 Qbby
 Rayman
-Red (Angry Birds)
+Red
 Rex
 Reyn
 Ribbon Girl
