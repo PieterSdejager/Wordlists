@@ -5,6 +5,7 @@ A repo for wordlists I have made. These are meant for Capture-the-flag competiti
 ## Wordlist Info
 
 - [111111 Movie Names](https://github.com/harisqazi1/Wordlists#111111_movie_namestxt-updated-may-6-2022)
+- [306 Game Characters]()
 
 ### 111111_movie_names.txt (Updated May 6, 2022)
 
@@ -18,3 +19,4 @@ https://www.imdb.com/list/ls063676189/
 
 I cleaned it up a bit removing the extra data that was not needed for this. I then sorted it to remove duplicates (`cat <file> | sort -u`).
 
+### 306
