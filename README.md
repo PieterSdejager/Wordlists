@@ -26,3 +26,11 @@ Combination of characters from the following links:
 https://nintendo.fandom.com/wiki/Nintendo_characters
 
 https://videogamefanon.fandom.com/wiki/List_of_Gaming_All-Stars_Characters
+
+### 313 US Area Codes
+
+These are the Area Codes for all the US states based on the following link:
+
+https://www.freshworks.com/freshcaller-cloud-pbx/phone-numbers/us-area-codes/
+
+I made this list for helping in cracking more wireless passwords, much more efficiently. Instead of going from 000 - 999, you have the area codes all figured out. You can shrink this list by A LOT by choosing the numbers from your desired area code only.
