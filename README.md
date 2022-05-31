@@ -6,6 +6,7 @@ A repo for wordlists I have made. These are meant for Capture-the-flag competiti
 
 - [111111 Movie Names](https://github.com/harisqazi1/Wordlists#111111_movie_namestxt-updated-may-6-2022)
 - [306 Game Characters](https://github.com/harisqazi1/Wordlists/blob/main/README.md#306-game-characters)
+- [313 US Area Codes](https://github.com/harisqazi1/Wordlists/blob/main/README.md#313-us-area-codes)
 
 ### 111111_movie_names.txt (Updated May 6, 2022)
 
