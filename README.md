@@ -19,4 +19,10 @@ https://www.imdb.com/list/ls063676189/
 
 I cleaned it up a bit removing the extra data that was not needed for this. I then sorted it to remove duplicates (`cat <file> | sort -u`).
 
-### 306
+### 306 Game Characters
+
+Combination of characters from the following links:
+
+https://nintendo.fandom.com/wiki/Nintendo_characters
+
+https://videogamefanon.fandom.com/wiki/List_of_Gaming_All-Stars_Characters
